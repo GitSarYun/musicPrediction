@@ -105,10 +105,21 @@ Because the decision tree classifier has an efficiency problem, it is recommende
 
 When coding, created dataInit file to initialize data. It clean and merged data with simple visualization. (https://github.com/GitSarYun/musicPrediction/blob/main/code/dataInit.ipynb) <br> <br>
 Visual1.ipynb file has multiple linear regression model with simple visualization. (https://github.com/GitSarYun/musicPrediction/blob/main/code/visual1.ipynb) <br><br>
-Visual 2 has an K-fold with decision tree models. It also has some different parameters and different visualization which could be ignored. (https://github.com/GitSarYun/musicPrediction/blob/main/code/visual2.ipynb) <br><br>
+Visual2.ipynb has an K-fold with decision tree models. It also has some different parameters and different visualization which could be ignored. (https://github.com/GitSarYun/musicPrediction/blob/main/code/visual2.ipynb) <br><br>
 Most coding is referencing to lectures from Flatiron AI Academy, not only from apprentiship, but also intensive section <br>
 
-In sum, all codes that were actually used for the final modeling is combined in a single file called MusicPrediction.ipynb (https://github.com/GitSarYun/musicPrediction/blob/main/MusicPrediction.ipynb)
+In sum, all codes that were actually used for the final modeling is combined in a single file called MusicPrediction.ipynb (https://github.com/GitSarYun/musicPrediction/blob/main/MusicPrediction.ipynb)  <br>
+
+All the other coding files are inside of code file. (https://github.com/GitSarYun/musicPrediction/tree/main/code) <br>
+All images are save in image file. (https://github.com/GitSarYun/musicPrediction/tree/main/image)
+
+<br>
+
+Presentation: <br>
+powerpoint from presentation in pdf <br>
+https://github.com/GitSarYun/musicPrediction/blob/main/Music%20Prediction.pdf
+<br>
+
 
 <br>
 
