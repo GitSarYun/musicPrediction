@@ -7,7 +7,7 @@ Using Billboard top 100 from 2000 to 2019 and spotify hit predictor dataset, pre
 
 <br>
 
-![festival pircture](festival.png)
+![festival pircture](image/festival.png)
 
 <br><br>
 
@@ -61,31 +61,54 @@ https://www.kaggle.com/datasets/theoverman/the-spotify-hit-predictor-dataset?sel
 Three differnt model is used.
 To find the basic relationship with each components of dataset, use multiple linear regression model.
 
-As the baseline, use K-fold cross validation. Depends on the parameter, accuracy sometimes goes higher, but most of the time, accuracy stays under 20 percent
+As the baseline, use K-fold cross validation. Depends on the parameter, accuracy sometimes goes higher, but most of the time, accuracy stays under 25 percent
+
+<br>
+
+![k-fold](image/KNeighbor_2.png)
+
+<br>
 
 For the final model, used Decision Tree Classifier. Accuracy is 93.96 percent. With different parameter, accuracy can go to 89 percent. It is not overfitting, and clearly, it is not underfitting.
 
+<br>
+
+![Decision_tree](image/'image/tree.png')
 
 
 <br>
 
 ## 4. Evaluation
 
-Baseline model, or the K-fold cross validation is extreme underfitting, and it cannot be used in reality. But on the other hand, the decision tree classifier's accuracy is a lot higher than K-fold cross validation, and it can be used in reality.
+Baseline model, or the K-fold cross validation is extreme underfitting, and it cannot be used in reality. But on the other hand, the decision tree classifier's accuracy is a lot higher than K-fold cross validation, and it can be used in reality. <br>
 
+<br>
 
+![Decision_tree_matrix](image/confusion_matrix.png)
+
+<br>
+
+But as it is shown in plot, it has an efficiency problem. There are too many components in the model that it is inefficient.
 
 <br>
 
 ## 5. Conclusion
 
-Because the decision tree classifier has an efficiency problem, it is recommended to create different types of group for data. Also, it is recommended to find the components of music that has is more essential to increase efficiency.
+Because the decision tree classifier has an efficiency problem, it is recommended to create different types of group for data. Also, it is recommended to find the components of music that has is more essential to increase efficiency such as energy or danceability.
 
 
 <br>
 
 ## 7. Repository
 
+When coding, created dataInit file to initialize data. It clean and merged data with simple visualization. <br>
+Visual1.ipynb file has multiple linear regression model with simple visualization. <br>
+Visual 2 has an K-fold with decision tree models. It also has some different parameters and different visualization which could be ignored. <br>
+Most coding is referencing to lectures from Flatiron AI Academy, not only from apprentiship, but also intensive section <br>
+
+In sum, all codes that were actually used for the final modeling is combined in a single file called MusicPrediction.ipynb
+
+<br>
 
 Data: <br>
 data folder is https://github.com/GitSarYun/musicPrediction/tree/main/data
