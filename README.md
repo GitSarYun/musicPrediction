@@ -76,6 +76,9 @@ For the final model, used Decision Tree Classifier. Accuracy is 93.96 percent. W
 ![download](https://user-images.githubusercontent.com/115171856/230223164-eb28719b-ae6d-46ca-8df3-b12f325a03d4.png)
 
 
+<br>
+
+#### All the steps for modeling are included in the actual file. To see every model at once, check MusicPrediction.ipynb. (https://github.com/GitSarYun/musicPrediction/blob/main/MusicPrediction.ipynb)  <br>
 
 <br>
 
@@ -108,7 +111,7 @@ Visual1.ipynb file has multiple linear regression model with simple visualizatio
 Visual2.ipynb has an K-fold with decision tree models. It also has some different parameters and different visualization which could be ignored. (https://github.com/GitSarYun/musicPrediction/blob/main/code/visual2.ipynb) <br><br>
 Most coding is referencing to lectures from Flatiron AI Academy, not only from apprentiship, but also intensive section <br>
 
-In sum, all codes that were actually used for the final modeling is combined in a single file called MusicPrediction.ipynb (https://github.com/GitSarYun/musicPrediction/blob/main/MusicPrediction.ipynb)  <br>
+#### In sum, all codes that were actually used for the final modeling is combined in a single file called MusicPrediction.ipynb (https://github.com/GitSarYun/musicPrediction/blob/main/MusicPrediction.ipynb)  <br>
 
 All the other coding files are inside of code file. (https://github.com/GitSarYun/musicPrediction/tree/main/code) <br>
 All images are save in image file. (https://github.com/GitSarYun/musicPrediction/tree/main/image)
