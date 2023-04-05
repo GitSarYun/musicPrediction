@@ -73,7 +73,8 @@ For the final model, used Decision Tree Classifier. Accuracy is 93.96 percent. W
 
 <br>
 
-![Decision_tree](image/'image/tree.png')
+![download](https://user-images.githubusercontent.com/115171856/230223164-eb28719b-ae6d-46ca-8df3-b12f325a03d4.png)
+
 
 
 <br>
@@ -84,7 +85,8 @@ Baseline model, or the K-fold cross validation is extreme underfitting, and it c
 
 <br>
 
-![Decision_tree_matrix](image/confusion_matrix.png)
+![download](https://user-images.githubusercontent.com/115171856/230223290-15fc1a0b-a0c4-4680-a4e9-14b682a9637a.png)
+
 
 <br>
 
@@ -106,7 +108,7 @@ Visual1.ipynb file has multiple linear regression model with simple visualizatio
 Visual 2 has an K-fold with decision tree models. It also has some different parameters and different visualization which could be ignored. <br>
 Most coding is referencing to lectures from Flatiron AI Academy, not only from apprentiship, but also intensive section <br>
 
-In sum, all codes that were actually used for the final modeling is combined in a single file called MusicPrediction.ipynb
+In sum, all codes that were actually used for the final modeling is combined in a single file called MusicPrediction.ipynb (https://github.com/GitSarYun/musicPrediction/blob/main/MusicPrediction.ipynb)
 
 <br>
 
