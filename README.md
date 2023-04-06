@@ -129,14 +129,15 @@ https://github.com/GitSarYun/musicPrediction/blob/main/Music%20Prediction.pdf
 Data: <br>
 data folder is https://github.com/GitSarYun/musicPrediction/tree/main/data
 
-ziped data from billboard top 100 from 2000 to 2019: https://github.com/GitSarYun/musicPrediction/blob/main/data/billboardHot100_1999-2019.csv.zip
+ziped data from billboard top 100 from 2000 to 2019: <br>
+https://github.com/GitSarYun/musicPrediction/blob/main/data/billboardHot100_1999-2019.csv.zip <br>
 
 Sportify Hit predictor Dataset: <br>
-2000 to 2009: https://github.com/GitSarYun/musicPrediction/blob/main/data/dataset-of-00s.csv
-2010 to 2019: https://github.com/GitSarYun/musicPrediction/blob/main/data/dataset-of-10s.csv
+2000 to 2009: https://github.com/GitSarYun/musicPrediction/blob/main/data/dataset-of-00s.csv <br>
+2010 to 2019: https://github.com/GitSarYun/musicPrediction/blob/main/data/dataset-of-10s.csv <br>
 
-merged data from 2000 to 2009: https://github.com/GitSarYun/musicPrediction/blob/main/data/df_00.csv
-merged data from 2010 to 2019: https://github.com/GitSarYun/musicPrediction/blob/main/data/df_10.csv
+merged data from 2000 to 2009: https://github.com/GitSarYun/musicPrediction/blob/main/data/df_00.csv <br>
+merged data from 2010 to 2019: https://github.com/GitSarYun/musicPrediction/blob/main/data/df_10.csv <br>
 
 <br><br><br>
 
